@@ -32,4 +32,9 @@ Please cite our paper in your publications if this code helps your research.
   year={2023},
   organization={Springer}
 }
+
+## Contact
+Zhicheng Yang, zcyang@stu.xmu.edu.cn
+
+Xiaoliang Fan (corresponding author), fanxiaoliang@xmu.edu.cn, https://xiaoliangfan.github.io
 ```
